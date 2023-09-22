@@ -1,1 +1,1 @@
-# -Clinical-Dementia-Rating
+# Clinical-Dementia-Rating
